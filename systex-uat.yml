@@ -1,1 +1,9 @@
 
+server:
+  port: 8096
+  ip: 10.204.27.4
+  user:
+    id: systex
+    pw: systex@systex
+  
+  
